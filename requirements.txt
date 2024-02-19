@@ -4,7 +4,7 @@ https://github.com/tangyoha/pyrogram/archive/refs/heads/master_v2.0.69_1.zip
 PyYAML==5.3.1
 rich==12.5.1
 TgCrypto==1.2.5
-loguru==0.6.0
+loguru==0.7.2
 # aligo==5.4.0
 Werkzeug==2.2.2
 flask==2.2.2
